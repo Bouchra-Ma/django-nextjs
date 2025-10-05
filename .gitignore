@@ -1,0 +1,15 @@
+# Django
+back/venv/
+back/__pycache__/
+back/*.sqlite3
+back/*.pyc
+back/media/
+
+# Next.js
+front/node_modules/
+front/.next/
+front/out/
+
+# Général
+.env
+.DS_Store
